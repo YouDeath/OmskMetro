@@ -1,0 +1,1 @@
+draw_back(obj_camera.x+9*obj_camera.d_width/32, obj_camera.y+obj_camera.d_height/2+10*scl)

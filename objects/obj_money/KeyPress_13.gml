@@ -1,0 +1,1 @@
+delta_money(irandom_range(10000,10000000))

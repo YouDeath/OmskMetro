@@ -1,0 +1,1 @@
+draw_sprite_ext(spr_menu_but, 0, obj_camera.x+10*scl, obj_camera.y+10*scl, scl, scl, 0, noone, 1)

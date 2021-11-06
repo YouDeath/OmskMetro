@@ -1,0 +1,1 @@
+draw_peoples(obj_camera.x+11*obj_camera.d_width/16-90*scl, obj_camera.y+obj_camera.d_height/2-92*scl)

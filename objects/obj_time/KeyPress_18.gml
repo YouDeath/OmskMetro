@@ -1,0 +1,1 @@
+create_event(irandom_range(2,10), irandom_range(0,11), 10, ds_list_create())

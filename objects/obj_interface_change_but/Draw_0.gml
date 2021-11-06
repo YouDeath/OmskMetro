@@ -1,0 +1,1 @@
+draw_sprite_ext(spr_change_but,but_type,x,y,scl,scl,0,noone,1)
